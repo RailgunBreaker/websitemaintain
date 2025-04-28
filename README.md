@@ -281,8 +281,8 @@ reboot
    - HTTPS, encrypted keys, auth for APIs; multi-region deployment & automated recovery.
 
 ## Useful Links
-Linux Syntax(https://www.youtube.com/watch?v=16d2lHc0Pe8)
-Wordpress (https://www.youtube.com/watch?v=kYY88h5J86A&pp=0gcJCdgAo7VqN5tD)
-Domain, DNS, (https://www.youtube.com/watch?v=1JBCKNIT2Ys)
-SSL Certificate (https://www.youtube.com/watch?v=NZzcDsG-LxE)
-AWS EC2(https://www.youtube.com/watch?v=BFCBitHQI-Q)
+- Linux Syntax(https://www.youtube.com/watch?v=16d2lHc0Pe8)
+- Wordpress (https://www.youtube.com/watch?v=kYY88h5J86A&pp=0gcJCdgAo7VqN5tD)
+- Domain, DNS, (https://www.youtube.com/watch?v=1JBCKNIT2Ys)
+- SSL Certificate (https://www.youtube.com/watch?v=NZzcDsG-LxE)
+- AWS EC2(https://www.youtube.com/watch?v=BFCBitHQI-Q)
