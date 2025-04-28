@@ -78,7 +78,8 @@ If you need to insert your API into WordPress:
 ## 5. SSH Connection from Windows
 
 - [ ] Install an SSH client:
-  - Recommended: [PuTTY](https://www.putty.org/).
+  - or use Window Terminal
+  - log in using connect <username>@ur domain(or ip address)
 - [ ] Obtain server's public IP address.
 - [ ] Open PuTTY and configure:
   - Host Name: `<your_server_ip>`
